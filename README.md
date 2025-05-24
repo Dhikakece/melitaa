@@ -94,7 +94,7 @@
     <h2>Kami yang selalu ada untukmu</h2>
     <p class="about">Jangan nangis lagi ya MELITA.</p>
     <nav class="social-links" aria-label="Tautan media sosial dan kontak">
-      <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Instagram">Instagram</a>
+      <a href="https://www.instagram.com/xvanchostore/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">Instagram</a>
       <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" aria-label="Twitter">Twitter</a>
       <a href="mailto:teman@example.com" aria-label="Email Teman">Email</a>
     </nav>
